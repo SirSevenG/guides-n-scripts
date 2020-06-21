@@ -383,6 +383,8 @@ _Command above will generate and enable self-signed ssl certs, you need to repla
  WantedBy=default.target
  ```
 
+ - Open explorer ports on firewall `default 4000/tcp 4001/tcp`
+
  - Test run:
 
  ```bash
