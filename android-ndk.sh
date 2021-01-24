@@ -1,3 +1,4 @@
+#!/bin/bash
 set -ex
 
 # ndk script, modified to be used with GitLab docker containers
